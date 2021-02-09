@@ -1,0 +1,5 @@
+MYSQL_DATABASE=hr_app_db
+MYSQL_USER=hr_app_user
+MYSQL_PASSWORD=secret
+MYSQL_ROOT_PASSWORD=secret
+DB_HOST=db
