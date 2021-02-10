@@ -4,6 +4,7 @@
 - Linux OS
 - Docker: https://docs.docker.com/engine/install
 - Docker Compose: https://docs.docker.com/compose/install
+- CURL: `sudo apt install curl`
 
 ## Steps
 
